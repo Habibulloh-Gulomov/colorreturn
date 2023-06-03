@@ -1,0 +1,15 @@
+D:\BA IT\classwork\classwork\classwork\bin\Debug\net6.0\classwork.exe
+D:\BA IT\classwork\classwork\classwork\bin\Debug\net6.0\classwork.deps.json
+D:\BA IT\classwork\classwork\classwork\bin\Debug\net6.0\classwork.runtimeconfig.json
+D:\BA IT\classwork\classwork\classwork\bin\Debug\net6.0\classwork.dll
+D:\BA IT\classwork\classwork\classwork\bin\Debug\net6.0\classwork.pdb
+D:\BA IT\classwork\classwork\classwork\obj\Debug\net6.0\classwork.csproj.AssemblyReference.cache
+D:\BA IT\classwork\classwork\classwork\obj\Debug\net6.0\classwork.GeneratedMSBuildEditorConfig.editorconfig
+D:\BA IT\classwork\classwork\classwork\obj\Debug\net6.0\classwork.AssemblyInfoInputs.cache
+D:\BA IT\classwork\classwork\classwork\obj\Debug\net6.0\classwork.AssemblyInfo.cs
+D:\BA IT\classwork\classwork\classwork\obj\Debug\net6.0\classwork.csproj.CoreCompileInputs.cache
+D:\BA IT\classwork\classwork\classwork\obj\Debug\net6.0\classwork.dll
+D:\BA IT\classwork\classwork\classwork\obj\Debug\net6.0\refint\classwork.dll
+D:\BA IT\classwork\classwork\classwork\obj\Debug\net6.0\classwork.pdb
+D:\BA IT\classwork\classwork\classwork\obj\Debug\net6.0\classwork.genruntimeconfig.cache
+D:\BA IT\classwork\classwork\classwork\obj\Debug\net6.0\ref\classwork.dll
